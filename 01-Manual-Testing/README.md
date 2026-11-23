@@ -20,9 +20,6 @@ Manual testing of SauceDemo (https://www.saucedemo.com), a public demo e-commerc
 | BUG-003 | High | "Remove" button does not remove the product from the cart |
 | BUG-004 | Critical | Last Name field malfunction blocks the checkout process |
 
-## Other manual testing work
-- A fundamentals assignment on an e-commerce scenario: 10 test scenarios classified as smoke, regression and exploratory testing, detailed test cases, requirement analysis and a bug life cycle example.
-
 ## Files
 - `Practical_QA_Assignment.docx`: scenarios, test cases, bug reports, and the automated tests that followed (see the Automation folder)
 
